@@ -7,11 +7,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```cpp
-#include <iostream>
-using namesapce std;
-int main(){
-    cout << "Hello World!" << endl;
-    return 0;
-}
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
